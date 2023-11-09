@@ -1,5 +1,7 @@
 Link: http://web2beadando1.nhely.hu/
+
 Feladat:
+
 Készítsen egy weboldalt egy fiktív cég részére, amely a következő követelményeknek tesz eleget: 
 1.	Az első oldalon mutassa be a céget egy reszponzív weboldalon	(3 pont)
 2.	A weboldalon legyen bejelentkezési és regisztrációs lehetőség. 	(4 pont)
