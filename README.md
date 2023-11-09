@@ -1,3 +1,5 @@
+Link: http://web2beadando1.nhely.hu/
+Feladat:
 Készítsen egy weboldalt egy fiktív cég részére, amely a következő követelményeknek tesz eleget: 
 1.	Az első oldalon mutassa be a céget egy reszponzív weboldalon	(3 pont)
 2.	A weboldalon legyen bejelentkezési és regisztrációs lehetőség. 	(4 pont)
@@ -29,3 +31,9 @@ látszódjék, hogy a csoport tagjai melyik részt készítették el és kb. fel
 11.	Készítsen egy legalább 10 oldalas dokumentációt képernyőképekkel(Kötelező elem!),	(3 pont)
 amiben bemutatja alkalmazását és leírja, hogy az előző pontok feladatait hogyan valósította meg. Fontos, hogy ez utóbbit leírja a dokumentációban, mert a feladatot ez alapján fogom javítani.  
 A dokumentációban adja meg az internetes szolgáltató belépéséhez szükséges címet, felhasználónevet és jelszót, ami szükséges a megoldás ellenőrzéséhez, valamint a GitHub címét.
+![web2bead1](https://github.com/schillerviktor/web2beadando1/assets/46298416/3bb23921-d774-40c2-9233-b2edd1311831)
+![web2bead1_2](https://github.com/schillerviktor/web2beadando1/assets/46298416/ee7c5e50-0d0a-44f8-822a-27cdb48fb4c5)
+![web2bead1_3](https://github.com/schillerviktor/web2beadando1/assets/46298416/709adeac-0da7-4374-bb15-ba67e09e9d53)
+![web2bead1_4](https://github.com/schillerviktor/web2beadando1/assets/46298416/6721345a-f3de-4d1a-97a5-0c17d656e855)
+![web2bead1_5jpg](https://github.com/schillerviktor/web2beadando1/assets/46298416/9f106912-30de-44c2-92e9-faa4625b5302)
+![web2bead1_6jpg](https://github.com/schillerviktor/web2beadando1/assets/46298416/6ae8a2a3-b829-4028-b781-79af6341f57a)
